@@ -1,0 +1,14 @@
+{
+  "name": "phongtruyenthong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^17.0.3",
+    "dev-tool": "giangm9/dev-tool",
+    "react": "^17.0.1",
+    "react-custom-events": "^1.0.2",
+    "react-dom": "^17.0.1",
+    "react-horizontal-timeline": "^1.5.3"
+  }
+}
